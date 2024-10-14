@@ -110,3 +110,67 @@ parcial1/
 cd parcial1/
 ls
 vim puntob.sh
+parcial1/
+ls parcial1/
+git push -u origin main
+git push --help
+git push -u origin master
+git push -u origin main
+git push -m origin main
+git add .
+git add.
+git commit -m "asda"
+git push -u origin main
+git pull origin main
+git push -u origin main
+git pull origin main
+git pull -u origin main
+git pull --rebase origin main
+git push -u origin main
+git add.
+git add .
+git push -u origin main
+ssh-keygen
+cat $HOME/.ssh/*.pub
+git add .
+git init
+git branch -M main
+git commit -m "asdsa"
+git push -u origin main
+git remote add origin git@github.com:francomartinv1/AySO-Parcial1-Franco-Vargas.git
+git remote add origin https://github.com/francomartinv1/AySO-Parcial1-Franco-Vargas.git
+git pull --rebase origin main
+git push -u origin main
+git pull --rebase origin main
+git pull origin main
+git push -u origin main
+git pull --rebase origin master
+git push -u origin main
+git config
+git config --global user.name "francomartinv1"
+git config --global user.email francomartinv1@gmail.com
+git push -u origin main
+ssh -vT git@github.com
+git push -u origin main
+chown -R user:user .git/
+chown -R user:francomartinv1 .git/
+chown -R francomartinv1:francomartinv1 .git/
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "francomartinv1@gmail.com"
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "francomartinv1@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+clip < ~/.ssh/id_rsa.pub
+git remote -v
+git push -u origin main}
+git push -u origin main
+ssh -T git@github.com
+cat id_rsa.pub | xclip
+cat id_rsa.pub | clip
+apt install geomview
+sudo apt install geomview
